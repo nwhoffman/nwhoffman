@@ -1,6 +1,7 @@
 ### Hello! 👋
 
 I'm a data scientist with a lot experience writing about...data science!
+
 💻 **Currently working on...**
 
 Expanding my data engineering skills, starting with deploying a (simple) machine learrning model using FastAPI, Docker, and AWS
