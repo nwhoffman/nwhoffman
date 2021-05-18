@@ -1,18 +1,12 @@
 ### Hello! 👋
 
-I'm a data scientist with a lot experience writing about...data science!
+I'm a data scientist with a lot experience writing about...data science! I love to build things with data and code and write about them.
 
-💻 **Currently working on...**
+💻 **Currently working on...** Expanding my data engineering skills, starting with deploying a (simple) machine learrning model using FastAPI, Docker, and AWS
 
-* Expanding my data engineering skills, starting with deploying a (simple) machine learrning model using FastAPI, Docker, and AWS
+📚**I'm Learning...** SQL, sqlite, PostgreSQL, and lots of stuff about databases.
 
-📚**Learning...**
-
-* SQL, sqlite, PostgreSQL, and lots of stuff about databases.
-
-🔭 **Ask me about...**
-
-* Earthquakes, astronomy, and rocks! I love science :atom:
+🔭 **Ask me about...** Earthquakes, astronomy, and rocks! I love science :atom:
 
 📬 **Reach out to me on** [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn!](https://www.linkedin.com/in/nwhoffman/)
 
